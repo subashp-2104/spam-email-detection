@@ -104,7 +104,7 @@ Result: SPAM EMAIL
 
 ## Output Screenshot
 
-![Output](Output.png)
+![Output](spam_email_detection_output.png)
 
 ---
 
